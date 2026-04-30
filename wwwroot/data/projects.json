@@ -1,0 +1,56 @@
+﻿[
+  {
+    "Id": 1,
+    "Title": "Coffee Date Wheel",
+    "Description": "Sevgilinle kahve buluşması planlamak için interaktif çark çevir uygulaması. 4 aşamalı Canvas çark sistemi ile rastgele date planı oluşturur.",
+    "Technologies": ".NET 8, Web API, HTML5 Canvas, CSS3, JavaScript",
+    "GitHubUrl": "https://github.com/cemresumerr/CoffeeDateWheel",
+    "LiveUrl": "https://coffeedatewheel-production.up.railway.app",
+    "ImageUrl": ""
+  },
+  {
+    "Id": 2,
+    "Title": "Psychological Disease VR Simulation",
+    "Description": "Psikotik epizodların eğitim amaçlı immersif VR simülasyonu. Arduino entegrasyonu ile fiziksel geri bildirim desteği.",
+    "Technologies": "C#, Unity, Arduino, VR Hardware",
+    "GitHubUrl": "",
+    "LiveUrl": "",
+    "ImageUrl": ""
+  },
+  {
+    "Id": 3,
+    "Title": "Recycling Management System",
+    "Description": "Malzeme geri dönüşüm süreçlerini takip eden kurumsal yönetim sistemi. Üretim verileriyle entegre raporlama.",
+    "Technologies": "C#, .NET, MS SQL Server, Stored Procedures",
+    "GitHubUrl": "",
+    "LiveUrl": "",
+    "ImageUrl": ""
+  },
+  {
+    "Id": 4,
+    "Title": "eBA Rehber (Web)",
+    "Description": "eBA workflow platformu için geliştirilen web tabanlı rehber uygulaması. Kullanıcı yetkilendirme ve süreç yönetimi.",
+    "Technologies": "ASP.NET, C#, MS SQL Server, eBA Platform",
+    "GitHubUrl": "",
+    "LiveUrl": "",
+    "ImageUrl": ""
+  },
+  {
+    "Id": 5,
+    "Title": "Factory Shortcut Desktop App",
+    "Description": "Fabrika personeli için operasyonel iş akışlarını hızlandıran masaüstü kısayol uygulaması.",
+    "Technologies": "C#, .NET, WinForms",
+    "GitHubUrl": "",
+    "LiveUrl": "",
+    "ImageUrl": ""
+  },
+  {
+    "Id": 6,
+    "Title": "Truck Battle (VR)",
+    "Description": "Mobil hyper-casual oyunun VR'a dönüştürülmüş versiyonu. VR optimizasyon teknikleri ile stabil frame rate.",
+    "Technologies": "C#, Unity, VR, SourceTree/Git",
+    "GitHubUrl": "",
+    "LiveUrl": "",
+    "ImageUrl": ""
+  }
+]

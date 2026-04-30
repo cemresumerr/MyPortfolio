@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Id": 1,
+    "Title": "Yapay Zeka ile Kod Yazmanın Avantajları",
+    "Summary": "AI destekli kod yazımının geliştirici verimliliğine etkisi ve günlük iş akışına entegrasyonu.",
+    "Content": "Yapay zeka araçları, yazılım geliştirme sürecini kökten değiştiriyor. GitHub Copilot, Claude gibi araçlar sayesinde boilerplate kod yazımı minimize edilirken, geliştiriciler daha yaratıcı ve mimari odaklı çalışmalar yapabiliyor.",
+    "Date": "2026-04-30",
+    "Tag": "AI"
+  },
+  {
+    "Id": 2,
+    "Title": ".NET Core ile Modern Web API Geliştirme",
+    "Summary": "ASP.NET Core Web API ile RESTful servis geliştirmenin temelleri ve best practice'ler.",
+    "Content": ".NET Core, cross-platform desteği ve yüksek performansıyla modern web API geliştirme için ideal bir framework. Minimal API yaklaşımı ile hızlı prototipleme, controller tabanlı yapı ile ölçeklenebilir mimari kurmak mümkün.",
+    "Date": "2026-04-28",
+    "Tag": ".NET"
+  }
+]
