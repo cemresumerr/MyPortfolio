@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "Title": "Coffee Date Wheel",
-    "Description": "Sevgilinle kahve buluşması planlamak için interaktif çark çevir uygulaması. 4 aşamalı Canvas çark sistemi ile rastgele date planı oluşturur.",
+    "Description": "An interactive spin-wheel web app for planning coffee dates. Features a 4-stage Canvas wheel system that randomly generates a complete date plan.",
     "Technologies": ".NET 8, Web API, HTML5 Canvas, CSS3, JavaScript",
     "GitHubUrl": "https://github.com/cemresumerr/CoffeeDateWheel",
     "LiveUrl": "https://coffeedatewheel-production.up.railway.app",
@@ -11,7 +11,7 @@
   {
     "Id": 2,
     "Title": "Psychological Disease VR Simulation",
-    "Description": "Psikotik epizodların eğitim amaçlı immersif VR simülasyonu. Arduino entegrasyonu ile fiziksel geri bildirim desteği.",
+    "Description": "An immersive VR simulation for educational experience of psychotic episodes. Integrated with Arduino for physical feedback.",
     "Technologies": "C#, Unity, Arduino, VR Hardware",
     "GitHubUrl": "",
     "LiveUrl": "",
@@ -20,7 +20,7 @@
   {
     "Id": 3,
     "Title": "Recycling Management System",
-    "Description": "Malzeme geri dönüşüm süreçlerini takip eden kurumsal yönetim sistemi. Üretim verileriyle entegre raporlama.",
+    "Description": "Enterprise-level system for tracking material recycling processes, integrated with production data and reporting.",
     "Technologies": "C#, .NET, MS SQL Server, Stored Procedures",
     "GitHubUrl": "",
     "LiveUrl": "",
@@ -29,7 +29,7 @@
   {
     "Id": 4,
     "Title": "eBA Rehber (Web)",
-    "Description": "eBA workflow platformu için geliştirilen web tabanlı rehber uygulaması. Kullanıcı yetkilendirme ve süreç yönetimi.",
+    "Description": "A web-based guide application for the eBA workflow platform. Handles user authorization and process management.",
     "Technologies": "ASP.NET, C#, MS SQL Server, eBA Platform",
     "GitHubUrl": "",
     "LiveUrl": "",
@@ -38,7 +38,7 @@
   {
     "Id": 5,
     "Title": "Factory Shortcut Desktop App",
-    "Description": "Fabrika personeli için operasyonel iş akışlarını hızlandıran masaüstü kısayol uygulaması.",
+    "Description": "A desktop shortcut application designed to streamline operational workflows for factory personnel.",
     "Technologies": "C#, .NET, WinForms",
     "GitHubUrl": "",
     "LiveUrl": "",
@@ -47,7 +47,7 @@
   {
     "Id": 6,
     "Title": "Truck Battle (VR)",
-    "Description": "Mobil hyper-casual oyunun VR'a dönüştürülmüş versiyonu. VR optimizasyon teknikleri ile stabil frame rate.",
+    "Description": "A mobile hyper-casual game converted into a fully immersive VR experience with optimized frame rates.",
     "Technologies": "C#, Unity, VR, SourceTree/Git",
     "GitHubUrl": "",
     "LiveUrl": "",
