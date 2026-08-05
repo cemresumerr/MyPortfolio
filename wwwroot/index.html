@@ -1203,7 +1203,7 @@
 
         async function loadProjects() {
             try {
-                const res = await fetch('/api/projects');
+                const res = await fetch('data/projects.json');
                 const projects = await res.json();
                 const grid = document.getElementById('projectsGrid');
 
@@ -1234,7 +1234,7 @@
 
         async function loadBlog() {
             try {
-                const res = await fetch('/api/blog');
+                const res = await fetch('data/blog.json');
                 const posts = await res.json();
                 const list = document.getElementById('blogList');
 
